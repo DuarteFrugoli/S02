@@ -1,0 +1,19 @@
+{
+    "aula 1" : {
+        "professor" : "Brad pit",
+        "assunto" : "como ser bonito",
+        "alunos" : ["eu", "laurinha", "pedroca", "ana belle"]
+    },
+
+    "aula 2" : {
+        "professor" : "Chris",
+        "assunto" : "POO",
+        "alunos" : ["tu", "nós", "vós", "eles"]
+    },
+
+    "aula 3" : {
+        "professor" : "Jonas",
+        "assunto" : "BD",
+        "alunos" : ["eu", "você", "dois filhos", "um cachorro"]
+    }
+}
